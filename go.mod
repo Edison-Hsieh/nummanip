@@ -1,3 +1,3 @@
-module github.com/Edison-Hsieh/nummanip
+module github.com/edison-hsieh/nummanip
 
 go 1.14
